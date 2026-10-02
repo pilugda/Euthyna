@@ -1,0 +1,198 @@
+{
+  "legislatura": "XV (actual)",
+  "fuente": "https://www.congreso.es/es/opendata/iniciativas",
+  "descargado_utc": "2026-10-02T10:40:43+00:00",
+  "archivos": {
+    "IniciativasLegislativasAprobadas": {
+      "url": "https://www.congreso.es/webpublica/opendata/iniciativas/IniciativasLegislativasAprobadas__20261002050016.json",
+      "sha256": "968be592e262a1be48d6f9d5df01330eec3f69dc3df56da464b91d1ef95f5f51",
+      "bytes": 75048
+    },
+    "ProyectosDeLey": {
+      "url": "https://www.congreso.es/webpublica/opendata/iniciativas/ProyectosDeLey__20261002050027.json",
+      "sha256": "93fc20287f33d6bb80532990ef2e40b2e7d7584ab85489215c4faca25e242b86",
+      "bytes": 364357
+    },
+    "PropuestasDeReforma": {
+      "url": "https://www.congreso.es/webpublica/opendata/iniciativas/PropuestasDeReforma__20261002050035.json",
+      "sha256": "3aa0e3b82a374160c0834ed26a68fbacd3f6c185d3a89ef52b966de0a0006c14",
+      "bytes": 2623
+    },
+    "ProposicionesDeLey": {
+      "url": "https://www.congreso.es/webpublica/opendata/iniciativas/ProposicionesDeLey__20261002050138.json",
+      "sha256": "d12b6814e0dcf5d37f032dc2dc5269926e65d478e75d5557a43b46a4ee623d1b",
+      "bytes": 725867
+    }
+  },
+  "resumen": {
+    "IniciativasLegislativasAprobadas": {
+      "filas_total": 156,
+      "normas_distintas_por_tipo": {
+        "Reales decretos": 58,
+        "Leyes": 20,
+        "Leyes organicas": 11
+      },
+      "filas_por_tipo_y_clase": {
+        "Leyes | norma": 20,
+        "Leyes | correccion_de_errores": 1,
+        "Reales decretos | norma": 58,
+        "Reales decretos | resolucion_convalidacion": 40,
+        "Reales decretos | resolucion_derogacion": 10,
+        "Reales decretos | correccion_de_errores": 13,
+        "Leyes organicas | norma": 11,
+        "Leyes organicas | correccion_de_errores": 2,
+        "Leyes organicas | sin_clasificar": 1
+      },
+      "sin_clasificar": [
+        "Ley Orgánica 4/2024, de 18 de octubre, por la que se modifica la Ley Orgánica 7/2014, de 12 de noviembre, sobre intercambio de información de antecedentes penales y consideración de resoluciones judiciales penales en la Unión Europea, para su adecuación a la normativa de la Unión Europea sobre el Sistema Europeo de Información de Antecedentes Penales (ECRIS)."
+      ]
+    },
+    "ProyectosDeLey": {
+      "total": 115,
+      "por_resultado": {
+        "Aprobado con modificaciones": 17,
+        "En tramitación (sin resultado)": 90,
+        "Rechazado": 2,
+        "Retirado": 2,
+        "Aprobado sin modificaciones": 4
+      },
+      "por_situacion": {
+        "Cerrado": 25,
+        "Comisión de Justicia \nInforme": 3,
+        "Comisión de Hacienda y Función Pública \nInforme": 3,
+        "Comisión de Trabajo, Eco. Social, Inclusión, S.Social y Migraciones \nInforme": 1,
+        "Comisión de Derechos Sociales y Consumo \nEnmiendas": 3,
+        "Comisión de Cultura \nInforme": 2,
+        "Comisión de Economía, Comercio y Transformación Digital \nInforme": 1,
+        "Comisión de Sanidad \nEnmiendas": 5,
+        "Comisión de Vivienda y Agenda Urbana \nEnmiendas": 1,
+        "Comisión de Trabajo, Eco. Social, Inclusión, S.Social y Migraciones \nEnmiendas": 6,
+        "Comisión de Transportes y Movilidad Sostenible \nEnmiendas": 6,
+        "Comisión de Hacienda y Función Pública \nEnmiendas": 11,
+        "Comisión de Transportes y Movilidad Sostenible \nInforme": 1,
+        "Comisión de Transición Ecológica y Reto Demográfico \nEnmiendas": 3,
+        "Comisión Constitucional \nEnmiendas": 4,
+        "Comisión de Justicia \nEnmiendas": 7,
+        "Comisión de Política Territorial \nEnmiendas": 7,
+        "Comisión de Industria y Turismo \nEnmiendas": 1,
+        "Comisión de Hacienda y Función Pública\nInforme": 2,
+        "Comisión de Economía, Comercio y Transformación Digital \nEnmiendas": 8,
+        "Comisión de Juventud e Infancia \nEnmiendas": 1,
+        "Concluido": 1,
+        "Comisión de Cultura \nEnmiendas": 2,
+        "Comisión de Agricultura, Pesca y Alimentación \nEnmiendas": 1,
+        "Comisión de Interior \nEnmiendas": 2,
+        "Comisión Constitucional \nMesa": 1,
+        "Comisión de Educación, Formación Profesional y Deportes \nInforme": 1,
+        "Comisión de Sanidad\nMesa": 1,
+        "Comisión de Sanidad \nDebate de totalidad \nComisión de Sanidad \nEnmiendas": 1,
+        "Comisión de Igualdad\nEnmiendas": 1,
+        "Comisión de Sanidad\nEnmiendas": 2,
+        "Comisión de Política Territorial \nPublicación": 1
+      },
+      "por_autor": {
+        "Gobierno": 115
+      },
+      "procedentes_de_real_decreto_ley": 25
+    },
+    "PropuestasDeReforma": {
+      "total": 2,
+      "por_resultado": {
+        "En tramitación (sin resultado)": 2
+      },
+      "por_situacion": {
+        "Pleno \nDebate de totalidad": 1,
+        "Comisión Constitucional \nInforme": 1
+      },
+      "por_autor": {
+        "Comunidad Autónoma de La Rioja - Parlamento": 1,
+        "Comunidad Autónoma de Castilla-La Mancha - Cortes": 1
+      },
+      "procedentes_de_real_decreto_ley": 0
+    },
+    "ProposicionesDeLey": {
+      "total": 369,
+      "por_resultado": {
+        "En tramitación (sin resultado)": 220,
+        "Inadmitido a trámite en términos absolutos": 1,
+        "Decaído": 28,
+        "Rechazado": 56,
+        "Retirado": 50,
+        "Aprobado con modificaciones": 9,
+        "Subsumido en otra iniciativa": 3,
+        "Aprobado sin modificaciones": 2
+      },
+      "por_situacion": {
+        "Pleno \nToma en consideración": 102,
+        "Comisión de Defensa \nEnmiendas": 5,
+        "Cerrado": 149,
+        "Comisión Constitucional \nEnmiendas": 8,
+        "Comisión de Justicia \nInforme": 2,
+        "Comisión de Educación, Formación Profesional y Deportes \nEnmiendas": 2,
+        "Comisión de Justicia \nEnmiendas": 17,
+        "Comisión de Asuntos Exteriores \nEnmiendas": 1,
+        "Comisión de Transición Ecológica y Reto Demográfico \nEnmiendas": 6,
+        "Mesa del Congreso \nRequerimiento de aclaración": 3,
+        "Comisión de Agricultura, Pesca y Alimentación \nEnmiendas": 3,
+        "Comisión de Igualdad \nEnmiendas": 2,
+        "Senado": 4,
+        "Comisión de Interior \nEnmiendas": 7,
+        "Comisión de Trabajo, Eco. Social, Inclusión, S.Social y Migraciones \nPublicación": 1,
+        "Comisión de Derechos Sociales y Consumo \nEnmiendas": 3,
+        "Comisión de Transición Ecológica y Reto Demográfico \nInforme": 2,
+        "Comisión de Interior \nInforme": 3,
+        "Comisión de Trabajo, Eco. Social, Inclusión, S.Social y Migraciones \nEnmiendas": 5,
+        "Comisión de Vivienda y Agenda Urbana \nDictamen": 1,
+        "Comisión de Ciencia, Innovación y Universidades \nInforme": 1,
+        "Comisión de Hacienda y Función Pública \nEnmiendas": 12,
+        "Comisión de Vivienda y Agenda Urbana \nInforme": 1,
+        "Comisión de Política Territorial \nInforme": 1,
+        "Comisión de Presupuestos \nEnmiendas": 1,
+        "Comisión de Justicia \nPublicación": 1,
+        "Comisión de Vivienda y Agenda Urbana \nEnmiendas": 2,
+        "Comisión de Sanidad \nEnmiendas": 4,
+        "Mesa del Congreso \nAcuerdo subsiguiente a la toma en consideración": 2,
+        "Gobierno \nContestación": 14,
+        "Comisión de Política Territorial \nEnmiendas": 1,
+        "Comisión de Cultura \nEnmiendas": 1,
+        "Comisión de Economía, Comercio y Transformación Digital \nEnmiendas": 1,
+        "Comisión de Justicia\nMesa": 1
+      },
+      "por_autor": {
+        "Grupo Parlamentario Vasco (EAJ-PNV)": 11,
+        "Grupo Parlamentario Plurinacional SUMAR": 55,
+        "Grupo Parlamentario Republicano": 13,
+        "Grupo Parlamentario VOX": 48,
+        "Grupo Parlamentario Popular en el Congreso": 62,
+        "Grupo Parlamentario Socialista": 33,
+        "Grupo Parlamentario Junts per Catalunya": 13,
+        "Grupo Parlamentario Mixto": 53,
+        "Grupo Parlamentario Euskal Herria Bildu": 2,
+        "Grupo Parlamentario Mixto \nGrupo Parlamentario Plurinacional SUMAR": 3,
+        "Grupo Parlamentario Popular en el Congreso \nGrupo Parlamentario Socialista": 1,
+        "Grupo Parlamentario Plurinacional SUMAR \nGrupo Parlamentario Mixto": 2,
+        "Grupo Parlamentario Socialista \nGrupo Parlamentario Plurinacional SUMAR \nGrupo Parlamentario Mixto": 1,
+        "Comisión de Derechos Sociales y Consumo": 1,
+        "Grupo Parlamentario Socialista \nGrupo Parlamentario Plurinacional SUMAR \nGrupo Parlamentario Euskal Herria Bildu \nGrupo Parlamentario Vasco (EAJ-PNV)": 1,
+        "Grupo Parlamentario Republicano \nGrupo Parlamentario Mixto \nGrupo Parlamentario Euskal Herria Bildu \nGrupo Parlamentario Plurinacional SUMAR": 1,
+        "Grupo Parlamentario Socialista \nGrupo Parlamentario Mixto": 1,
+        "Grupo Parlamentario Socialista \nGrupo Parlamentario Plurinacional SUMAR": 2,
+        "Grupo Parlamentario Socialista \nGrupo Parlamentario Junts per Catalunya": 1,
+        "Álvaro Vidal, Francesc-Marc (GR) \nVallugera Balañà, Pilar (GR)": 1,
+        "Rufián Romero, Gabriel (GR) \nÁlvaro Vidal, Francesc-Marc (GR) \nEstrems Fayos, Etna (GR) \nGranollers Cunillera, Inés (GR) \nJordà i Roura, Teresa (GR) \nSalvador i Duch, Jordi (GR) \nVallugera Balañà, Pilar (GR) \nAizpurua Arzallus, Mertxe (GEH Bildu) \nFullaondo la Cruz, Marije (GEH Bildu) \nIñarritu García, Jon (GEH Bildu) \nMatute García de Jalón, Oskar (GEH Bildu) \nOtero Gabirondo, Mikel (GEH Bildu) \nPozueta Fernández, Isabel (GEH Bildu) \nAgirretxea Urresti, Joseba Andoni (GV (EAJ-PNV)) \nLegarda Uriarte, Mikel (GV (EAJ-PNV)) \nRenteria Lasanta, Nerea (GV (EAJ-PNV)) \nSagastizabal Unzetabarrenetxea, Idoia (GV (EAJ-PNV)) \nVaquero Montero, Maribel (GV (EAJ-PNV)) \nRego Candamil, Néstor (GMx) \nMicó Micó, Àgueda (GMx) \nIbáñez Mezquita, Alberto (GSUMAR) \nVidal Matas, Vicenç (GSUMAR) \nLópez Tagliafico, Candela (GSUMAR) \nVidal Sáez, Aina (GSUMAR)": 1,
+        "González López, Nahuel (GSUMAR)  y 45 Diputados": 1,
+        "Senado": 46,
+        "Comunidad Autónoma de la Región de Murcia - Asamblea Regional": 2,
+        "Comunidad Autónoma de Cataluña - Parlamento": 5,
+        "Comunidad de Madrid - Asamblea": 1,
+        "Comunidad Autónoma de Galicia - Parlamento": 1,
+        "Comunidad Autónoma de Andalucía-Parlamento": 2,
+        "Comunidad Autónoma de Cantabria - Parlamento": 1,
+        "Comunidad Autónoma del Principado de Asturias-Junta General": 1,
+        "Comunidad Autónoma de Extremadura - Asamblea": 1,
+        "Comunidad Autónoma de las Illes Balears-Parlamento": 2
+      },
+      "procedentes_de_real_decreto_ley": 0
+    }
+  }
+}

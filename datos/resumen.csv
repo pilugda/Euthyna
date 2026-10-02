@@ -1,0 +1,241 @@
+archivo,medida,valor,descargado
+IniciativasLegislativasAprobadas,filas_total,156,2026-10-02
+IniciativasLegislativasAprobadas,normas_distintas_por_tipo: Reales decretos,58,2026-10-02
+IniciativasLegislativasAprobadas,normas_distintas_por_tipo: Leyes,20,2026-10-02
+IniciativasLegislativasAprobadas,normas_distintas_por_tipo: Leyes organicas,11,2026-10-02
+IniciativasLegislativasAprobadas,filas_por_tipo_y_clase: Leyes | norma,20,2026-10-02
+IniciativasLegislativasAprobadas,filas_por_tipo_y_clase: Leyes | correccion_de_errores,1,2026-10-02
+IniciativasLegislativasAprobadas,filas_por_tipo_y_clase: Reales decretos | norma,58,2026-10-02
+IniciativasLegislativasAprobadas,filas_por_tipo_y_clase: Reales decretos | resolucion_convalidacion,40,2026-10-02
+IniciativasLegislativasAprobadas,filas_por_tipo_y_clase: Reales decretos | resolucion_derogacion,10,2026-10-02
+IniciativasLegislativasAprobadas,filas_por_tipo_y_clase: Reales decretos | correccion_de_errores,13,2026-10-02
+IniciativasLegislativasAprobadas,filas_por_tipo_y_clase: Leyes organicas | norma,11,2026-10-02
+IniciativasLegislativasAprobadas,filas_por_tipo_y_clase: Leyes organicas | correccion_de_errores,2,2026-10-02
+IniciativasLegislativasAprobadas,filas_por_tipo_y_clase: Leyes organicas | sin_clasificar,1,2026-10-02
+ProyectosDeLey,total,115,2026-10-02
+ProyectosDeLey,por_resultado: Aprobado con modificaciones,17,2026-10-02
+ProyectosDeLey,por_resultado: En tramitación (sin resultado),90,2026-10-02
+ProyectosDeLey,por_resultado: Rechazado,2,2026-10-02
+ProyectosDeLey,por_resultado: Retirado,2,2026-10-02
+ProyectosDeLey,por_resultado: Aprobado sin modificaciones,4,2026-10-02
+ProyectosDeLey,por_situacion: Cerrado,25,2026-10-02
+ProyectosDeLey,"por_situacion: Comisión de Justicia 
+Informe",3,2026-10-02
+ProyectosDeLey,"por_situacion: Comisión de Hacienda y Función Pública 
+Informe",3,2026-10-02
+ProyectosDeLey,"por_situacion: Comisión de Trabajo, Eco. Social, Inclusión, S.Social y Migraciones 
+Informe",1,2026-10-02
+ProyectosDeLey,"por_situacion: Comisión de Derechos Sociales y Consumo 
+Enmiendas",3,2026-10-02
+ProyectosDeLey,"por_situacion: Comisión de Cultura 
+Informe",2,2026-10-02
+ProyectosDeLey,"por_situacion: Comisión de Economía, Comercio y Transformación Digital 
+Informe",1,2026-10-02
+ProyectosDeLey,"por_situacion: Comisión de Sanidad 
+Enmiendas",5,2026-10-02
+ProyectosDeLey,"por_situacion: Comisión de Vivienda y Agenda Urbana 
+Enmiendas",1,2026-10-02
+ProyectosDeLey,"por_situacion: Comisión de Trabajo, Eco. Social, Inclusión, S.Social y Migraciones 
+Enmiendas",6,2026-10-02
+ProyectosDeLey,"por_situacion: Comisión de Transportes y Movilidad Sostenible 
+Enmiendas",6,2026-10-02
+ProyectosDeLey,"por_situacion: Comisión de Hacienda y Función Pública 
+Enmiendas",11,2026-10-02
+ProyectosDeLey,"por_situacion: Comisión de Transportes y Movilidad Sostenible 
+Informe",1,2026-10-02
+ProyectosDeLey,"por_situacion: Comisión de Transición Ecológica y Reto Demográfico 
+Enmiendas",3,2026-10-02
+ProyectosDeLey,"por_situacion: Comisión Constitucional 
+Enmiendas",4,2026-10-02
+ProyectosDeLey,"por_situacion: Comisión de Justicia 
+Enmiendas",7,2026-10-02
+ProyectosDeLey,"por_situacion: Comisión de Política Territorial 
+Enmiendas",7,2026-10-02
+ProyectosDeLey,"por_situacion: Comisión de Industria y Turismo 
+Enmiendas",1,2026-10-02
+ProyectosDeLey,"por_situacion: Comisión de Hacienda y Función Pública
+Informe",2,2026-10-02
+ProyectosDeLey,"por_situacion: Comisión de Economía, Comercio y Transformación Digital 
+Enmiendas",8,2026-10-02
+ProyectosDeLey,"por_situacion: Comisión de Juventud e Infancia 
+Enmiendas",1,2026-10-02
+ProyectosDeLey,por_situacion: Concluido,1,2026-10-02
+ProyectosDeLey,"por_situacion: Comisión de Cultura 
+Enmiendas",2,2026-10-02
+ProyectosDeLey,"por_situacion: Comisión de Agricultura, Pesca y Alimentación 
+Enmiendas",1,2026-10-02
+ProyectosDeLey,"por_situacion: Comisión de Interior 
+Enmiendas",2,2026-10-02
+ProyectosDeLey,"por_situacion: Comisión Constitucional 
+Mesa",1,2026-10-02
+ProyectosDeLey,"por_situacion: Comisión de Educación, Formación Profesional y Deportes 
+Informe",1,2026-10-02
+ProyectosDeLey,"por_situacion: Comisión de Sanidad
+Mesa",1,2026-10-02
+ProyectosDeLey,"por_situacion: Comisión de Sanidad 
+Debate de totalidad 
+Comisión de Sanidad 
+Enmiendas",1,2026-10-02
+ProyectosDeLey,"por_situacion: Comisión de Igualdad
+Enmiendas",1,2026-10-02
+ProyectosDeLey,"por_situacion: Comisión de Sanidad
+Enmiendas",2,2026-10-02
+ProyectosDeLey,"por_situacion: Comisión de Política Territorial 
+Publicación",1,2026-10-02
+ProyectosDeLey,por_autor: Gobierno,115,2026-10-02
+ProyectosDeLey,procedentes_de_real_decreto_ley,25,2026-10-02
+PropuestasDeReforma,total,2,2026-10-02
+PropuestasDeReforma,por_resultado: En tramitación (sin resultado),2,2026-10-02
+PropuestasDeReforma,"por_situacion: Pleno 
+Debate de totalidad",1,2026-10-02
+PropuestasDeReforma,"por_situacion: Comisión Constitucional 
+Informe",1,2026-10-02
+PropuestasDeReforma,por_autor: Comunidad Autónoma de La Rioja - Parlamento,1,2026-10-02
+PropuestasDeReforma,por_autor: Comunidad Autónoma de Castilla-La Mancha - Cortes,1,2026-10-02
+PropuestasDeReforma,procedentes_de_real_decreto_ley,0,2026-10-02
+ProposicionesDeLey,total,369,2026-10-02
+ProposicionesDeLey,por_resultado: En tramitación (sin resultado),220,2026-10-02
+ProposicionesDeLey,por_resultado: Inadmitido a trámite en términos absolutos,1,2026-10-02
+ProposicionesDeLey,por_resultado: Decaído,28,2026-10-02
+ProposicionesDeLey,por_resultado: Rechazado,56,2026-10-02
+ProposicionesDeLey,por_resultado: Retirado,50,2026-10-02
+ProposicionesDeLey,por_resultado: Aprobado con modificaciones,9,2026-10-02
+ProposicionesDeLey,por_resultado: Subsumido en otra iniciativa,3,2026-10-02
+ProposicionesDeLey,por_resultado: Aprobado sin modificaciones,2,2026-10-02
+ProposicionesDeLey,"por_situacion: Pleno 
+Toma en consideración",102,2026-10-02
+ProposicionesDeLey,"por_situacion: Comisión de Defensa 
+Enmiendas",5,2026-10-02
+ProposicionesDeLey,por_situacion: Cerrado,149,2026-10-02
+ProposicionesDeLey,"por_situacion: Comisión Constitucional 
+Enmiendas",8,2026-10-02
+ProposicionesDeLey,"por_situacion: Comisión de Justicia 
+Informe",2,2026-10-02
+ProposicionesDeLey,"por_situacion: Comisión de Educación, Formación Profesional y Deportes 
+Enmiendas",2,2026-10-02
+ProposicionesDeLey,"por_situacion: Comisión de Justicia 
+Enmiendas",17,2026-10-02
+ProposicionesDeLey,"por_situacion: Comisión de Asuntos Exteriores 
+Enmiendas",1,2026-10-02
+ProposicionesDeLey,"por_situacion: Comisión de Transición Ecológica y Reto Demográfico 
+Enmiendas",6,2026-10-02
+ProposicionesDeLey,"por_situacion: Mesa del Congreso 
+Requerimiento de aclaración",3,2026-10-02
+ProposicionesDeLey,"por_situacion: Comisión de Agricultura, Pesca y Alimentación 
+Enmiendas",3,2026-10-02
+ProposicionesDeLey,"por_situacion: Comisión de Igualdad 
+Enmiendas",2,2026-10-02
+ProposicionesDeLey,por_situacion: Senado,4,2026-10-02
+ProposicionesDeLey,"por_situacion: Comisión de Interior 
+Enmiendas",7,2026-10-02
+ProposicionesDeLey,"por_situacion: Comisión de Trabajo, Eco. Social, Inclusión, S.Social y Migraciones 
+Publicación",1,2026-10-02
+ProposicionesDeLey,"por_situacion: Comisión de Derechos Sociales y Consumo 
+Enmiendas",3,2026-10-02
+ProposicionesDeLey,"por_situacion: Comisión de Transición Ecológica y Reto Demográfico 
+Informe",2,2026-10-02
+ProposicionesDeLey,"por_situacion: Comisión de Interior 
+Informe",3,2026-10-02
+ProposicionesDeLey,"por_situacion: Comisión de Trabajo, Eco. Social, Inclusión, S.Social y Migraciones 
+Enmiendas",5,2026-10-02
+ProposicionesDeLey,"por_situacion: Comisión de Vivienda y Agenda Urbana 
+Dictamen",1,2026-10-02
+ProposicionesDeLey,"por_situacion: Comisión de Ciencia, Innovación y Universidades 
+Informe",1,2026-10-02
+ProposicionesDeLey,"por_situacion: Comisión de Hacienda y Función Pública 
+Enmiendas",12,2026-10-02
+ProposicionesDeLey,"por_situacion: Comisión de Vivienda y Agenda Urbana 
+Informe",1,2026-10-02
+ProposicionesDeLey,"por_situacion: Comisión de Política Territorial 
+Informe",1,2026-10-02
+ProposicionesDeLey,"por_situacion: Comisión de Presupuestos 
+Enmiendas",1,2026-10-02
+ProposicionesDeLey,"por_situacion: Comisión de Justicia 
+Publicación",1,2026-10-02
+ProposicionesDeLey,"por_situacion: Comisión de Vivienda y Agenda Urbana 
+Enmiendas",2,2026-10-02
+ProposicionesDeLey,"por_situacion: Comisión de Sanidad 
+Enmiendas",4,2026-10-02
+ProposicionesDeLey,"por_situacion: Mesa del Congreso 
+Acuerdo subsiguiente a la toma en consideración",2,2026-10-02
+ProposicionesDeLey,"por_situacion: Gobierno 
+Contestación",14,2026-10-02
+ProposicionesDeLey,"por_situacion: Comisión de Política Territorial 
+Enmiendas",1,2026-10-02
+ProposicionesDeLey,"por_situacion: Comisión de Cultura 
+Enmiendas",1,2026-10-02
+ProposicionesDeLey,"por_situacion: Comisión de Economía, Comercio y Transformación Digital 
+Enmiendas",1,2026-10-02
+ProposicionesDeLey,"por_situacion: Comisión de Justicia
+Mesa",1,2026-10-02
+ProposicionesDeLey,por_autor: Grupo Parlamentario Vasco (EAJ-PNV),11,2026-10-02
+ProposicionesDeLey,por_autor: Grupo Parlamentario Plurinacional SUMAR,55,2026-10-02
+ProposicionesDeLey,por_autor: Grupo Parlamentario Republicano,13,2026-10-02
+ProposicionesDeLey,por_autor: Grupo Parlamentario VOX,48,2026-10-02
+ProposicionesDeLey,por_autor: Grupo Parlamentario Popular en el Congreso,62,2026-10-02
+ProposicionesDeLey,por_autor: Grupo Parlamentario Socialista,33,2026-10-02
+ProposicionesDeLey,por_autor: Grupo Parlamentario Junts per Catalunya,13,2026-10-02
+ProposicionesDeLey,por_autor: Grupo Parlamentario Mixto,53,2026-10-02
+ProposicionesDeLey,por_autor: Grupo Parlamentario Euskal Herria Bildu,2,2026-10-02
+ProposicionesDeLey,"por_autor: Grupo Parlamentario Mixto 
+Grupo Parlamentario Plurinacional SUMAR",3,2026-10-02
+ProposicionesDeLey,"por_autor: Grupo Parlamentario Popular en el Congreso 
+Grupo Parlamentario Socialista",1,2026-10-02
+ProposicionesDeLey,"por_autor: Grupo Parlamentario Plurinacional SUMAR 
+Grupo Parlamentario Mixto",2,2026-10-02
+ProposicionesDeLey,"por_autor: Grupo Parlamentario Socialista 
+Grupo Parlamentario Plurinacional SUMAR 
+Grupo Parlamentario Mixto",1,2026-10-02
+ProposicionesDeLey,por_autor: Comisión de Derechos Sociales y Consumo,1,2026-10-02
+ProposicionesDeLey,"por_autor: Grupo Parlamentario Socialista 
+Grupo Parlamentario Plurinacional SUMAR 
+Grupo Parlamentario Euskal Herria Bildu 
+Grupo Parlamentario Vasco (EAJ-PNV)",1,2026-10-02
+ProposicionesDeLey,"por_autor: Grupo Parlamentario Republicano 
+Grupo Parlamentario Mixto 
+Grupo Parlamentario Euskal Herria Bildu 
+Grupo Parlamentario Plurinacional SUMAR",1,2026-10-02
+ProposicionesDeLey,"por_autor: Grupo Parlamentario Socialista 
+Grupo Parlamentario Mixto",1,2026-10-02
+ProposicionesDeLey,"por_autor: Grupo Parlamentario Socialista 
+Grupo Parlamentario Plurinacional SUMAR",2,2026-10-02
+ProposicionesDeLey,"por_autor: Grupo Parlamentario Socialista 
+Grupo Parlamentario Junts per Catalunya",1,2026-10-02
+ProposicionesDeLey,"por_autor: Álvaro Vidal, Francesc-Marc (GR) 
+Vallugera Balañà, Pilar (GR)",1,2026-10-02
+ProposicionesDeLey,"por_autor: Rufián Romero, Gabriel (GR) 
+Álvaro Vidal, Francesc-Marc (GR) 
+Estrems Fayos, Etna (GR) 
+Granollers Cunillera, Inés (GR) 
+Jordà i Roura, Teresa (GR) 
+Salvador i Duch, Jordi (GR) 
+Vallugera Balañà, Pilar (GR) 
+Aizpurua Arzallus, Mertxe (GEH Bildu) 
+Fullaondo la Cruz, Marije (GEH Bildu) 
+Iñarritu García, Jon (GEH Bildu) 
+Matute García de Jalón, Oskar (GEH Bildu) 
+Otero Gabirondo, Mikel (GEH Bildu) 
+Pozueta Fernández, Isabel (GEH Bildu) 
+Agirretxea Urresti, Joseba Andoni (GV (EAJ-PNV)) 
+Legarda Uriarte, Mikel (GV (EAJ-PNV)) 
+Renteria Lasanta, Nerea (GV (EAJ-PNV)) 
+Sagastizabal Unzetabarrenetxea, Idoia (GV (EAJ-PNV)) 
+Vaquero Montero, Maribel (GV (EAJ-PNV)) 
+Rego Candamil, Néstor (GMx) 
+Micó Micó, Àgueda (GMx) 
+Ibáñez Mezquita, Alberto (GSUMAR) 
+Vidal Matas, Vicenç (GSUMAR) 
+López Tagliafico, Candela (GSUMAR) 
+Vidal Sáez, Aina (GSUMAR)",1,2026-10-02
+ProposicionesDeLey,"por_autor: González López, Nahuel (GSUMAR)  y 45 Diputados",1,2026-10-02
+ProposicionesDeLey,por_autor: Senado,46,2026-10-02
+ProposicionesDeLey,por_autor: Comunidad Autónoma de la Región de Murcia - Asamblea Regional,2,2026-10-02
+ProposicionesDeLey,por_autor: Comunidad Autónoma de Cataluña - Parlamento,5,2026-10-02
+ProposicionesDeLey,por_autor: Comunidad de Madrid - Asamblea,1,2026-10-02
+ProposicionesDeLey,por_autor: Comunidad Autónoma de Galicia - Parlamento,1,2026-10-02
+ProposicionesDeLey,por_autor: Comunidad Autónoma de Andalucía-Parlamento,2,2026-10-02
+ProposicionesDeLey,por_autor: Comunidad Autónoma de Cantabria - Parlamento,1,2026-10-02
+ProposicionesDeLey,por_autor: Comunidad Autónoma del Principado de Asturias-Junta General,1,2026-10-02
+ProposicionesDeLey,por_autor: Comunidad Autónoma de Extremadura - Asamblea,1,2026-10-02
+ProposicionesDeLey,por_autor: Comunidad Autónoma de las Illes Balears-Parlamento,2,2026-10-02
+ProposicionesDeLey,procedentes_de_real_decreto_ley,0,2026-10-02
