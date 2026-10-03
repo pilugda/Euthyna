@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Euthyna - descarga TODA la actividad (iniciativas) de una legislatura del Congreso. (version 4)
+"""Euthyna - descarga TODA la actividad (iniciativas) de una legislatura del Congreso. (version 5)
 
 Fuente: buscador de iniciativas del Congreso (datos abiertos oficiales):
 https://www.congreso.es/es/busqueda-de-iniciativas
@@ -61,7 +61,7 @@ def pagina(n):
     ultimo = None
     for intento in range(1, 6):          # hasta 5 intentos, esperando mas cada vez
         try:
-            texto = pedir(EXPORT, datos)
+            texto = pedir(EXPORT, datos).decode("utf-8")   # la red devuelve bytes; los pasamos a texto
             lista = json.loads(texto)
             if not isinstance(lista, list):
                 raise ValueError("la respuesta no es una lista")
@@ -122,7 +122,7 @@ def main():
             fila = dict(it, codigo_tipo=it["id_iniciativa"].split("/")[0])
             w.writerow([" ".join(str(fila.get(c, "")).split()) for c in COLUMNAS])
 
-    resumen = {"legislatura": LEG, "fuente": PAGINA, "version_script": 4,
+    resumen = {"legislatura": LEG, "fuente": PAGINA, "version_script": 5,
                "descargado_utc": datetime.now(timezone.utc).isoformat(timespec="seconds"),
                "total": len(filas), "sha256_original": sha, "paginas_fallidas": fallidas,
                "por_codigo_tipo": dict(sorted(Counter(r["id_iniciativa"].split("/")[0] for r in filas).items()))}
