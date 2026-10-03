@@ -2,27 +2,27 @@
   "legislatura": "XV (actual)",
   "fuente": "https://www.congreso.es/es/opendata/iniciativas",
   "version_script": 3,
-  "descargado_utc": "2026-10-02T11:43:53+00:00",
+  "descargado_utc": "2026-10-03T05:44:54+00:00",
   "archivos": {
     "IniciativasLegislativasAprobadas": {
-      "url": "https://www.congreso.es/webpublica/opendata/iniciativas/IniciativasLegislativasAprobadas__20261002050016.json",
+      "url": "https://www.congreso.es/webpublica/opendata/iniciativas/IniciativasLegislativasAprobadas__20261003050014.json",
       "sha256": "968be592e262a1be48d6f9d5df01330eec3f69dc3df56da464b91d1ef95f5f51",
       "bytes": 75048
     },
     "ProyectosDeLey": {
-      "url": "https://www.congreso.es/webpublica/opendata/iniciativas/ProyectosDeLey__20261002050027.json",
-      "sha256": "93fc20287f33d6bb80532990ef2e40b2e7d7584ab85489215c4faca25e242b86",
-      "bytes": 364357
+      "url": "https://www.congreso.es/webpublica/opendata/iniciativas/ProyectosDeLey__20261003050024.json",
+      "sha256": "02c4e60b5679629d1ccbc211422c7254f2fe8222abb1c20ade63ed8d118aec7d",
+      "bytes": 364698
     },
     "PropuestasDeReforma": {
-      "url": "https://www.congreso.es/webpublica/opendata/iniciativas/PropuestasDeReforma__20261002050035.json",
+      "url": "https://www.congreso.es/webpublica/opendata/iniciativas/PropuestasDeReforma__20261003050033.json",
       "sha256": "3aa0e3b82a374160c0834ed26a68fbacd3f6c185d3a89ef52b966de0a0006c14",
       "bytes": 2623
     },
     "ProposicionesDeLey": {
-      "url": "https://www.congreso.es/webpublica/opendata/iniciativas/ProposicionesDeLey__20261002050138.json",
-      "sha256": "d12b6814e0dcf5d37f032dc2dc5269926e65d478e75d5557a43b46a4ee623d1b",
-      "bytes": 725867
+      "url": "https://www.congreso.es/webpublica/opendata/iniciativas/ProposicionesDeLey__20261003050125.json",
+      "sha256": "49fbc89bbac64e16401afbe359fd0a752c5140a3188d2471c8b6cf72eb0d3d82",
+      "bytes": 726769
     }
   },
   "resumen": {
@@ -233,12 +233,12 @@
         "Subsumido en otra iniciativa 08/10/2024"
       ],
       "por_situacion_general": {
-        "En el Pleno": 102,
+        "En el Pleno": 104,
         "En comisión": 95,
         "Cerrado": 149,
         "En la Mesa": 5,
         "En el Senado": 4,
-        "Pendiente de contestación del Gobierno": 14
+        "Pendiente de contestación del Gobierno": 12
       },
       "por_autor_una_vez_por_cada_autor": {
         "Grupo Parlamentario Vasco (EAJ-PNV)": 12,

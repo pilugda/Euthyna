@@ -1,70 +1,70 @@
 archivo,medida,valor,descargado
-IniciativasLegislativasAprobadas,filas_total,156,2026-10-02
-IniciativasLegislativasAprobadas,normas_distintas_por_tipo: Leyes,20,2026-10-02
-IniciativasLegislativasAprobadas,normas_distintas_por_tipo: Reales decretos,58,2026-10-02
-IniciativasLegislativasAprobadas,normas_distintas_por_tipo: Leyes organicas,12,2026-10-02
-IniciativasLegislativasAprobadas,normas_distintas_por_subtipo_segun_titulo: Ley,20,2026-10-02
-IniciativasLegislativasAprobadas,normas_distintas_por_subtipo_segun_titulo: Real Decreto-ley,58,2026-10-02
-IniciativasLegislativasAprobadas,normas_distintas_por_subtipo_segun_titulo: Ley Orgánica,12,2026-10-02
-IniciativasLegislativasAprobadas,filas_por_tipo_y_clase: Leyes | norma,20,2026-10-02
-IniciativasLegislativasAprobadas,filas_por_tipo_y_clase: Leyes | correccion_de_errores,1,2026-10-02
-IniciativasLegislativasAprobadas,filas_por_tipo_y_clase: Reales decretos | norma,58,2026-10-02
-IniciativasLegislativasAprobadas,filas_por_tipo_y_clase: Reales decretos | resolucion_convalidacion,40,2026-10-02
-IniciativasLegislativasAprobadas,filas_por_tipo_y_clase: Reales decretos | resolucion_derogacion,10,2026-10-02
-IniciativasLegislativasAprobadas,filas_por_tipo_y_clase: Reales decretos | correccion_de_errores,13,2026-10-02
-IniciativasLegislativasAprobadas,filas_por_tipo_y_clase: Leyes organicas | norma,12,2026-10-02
-IniciativasLegislativasAprobadas,filas_por_tipo_y_clase: Leyes organicas | correccion_de_errores,2,2026-10-02
-ProyectosDeLey,total,115,2026-10-02
-ProyectosDeLey,por_resultado: Aprobado con modificaciones,17,2026-10-02
-ProyectosDeLey,por_resultado: En tramitación (sin resultado),90,2026-10-02
-ProyectosDeLey,por_resultado: Rechazado,2,2026-10-02
-ProyectosDeLey,por_resultado: Retirado,2,2026-10-02
-ProyectosDeLey,por_resultado: Aprobado sin modificaciones,4,2026-10-02
-ProyectosDeLey,por_situacion_general: Cerrado,26,2026-10-02
-ProyectosDeLey,por_situacion_general: En comisión,89,2026-10-02
-ProyectosDeLey,por_autor_una_vez_por_cada_autor: Gobierno,115,2026-10-02
-ProyectosDeLey,procedentes_de_real_decreto_ley,25,2026-10-02
-PropuestasDeReforma,total,2,2026-10-02
-PropuestasDeReforma,por_resultado: En tramitación (sin resultado),2,2026-10-02
-PropuestasDeReforma,por_situacion_general: En el Pleno,1,2026-10-02
-PropuestasDeReforma,por_situacion_general: En comisión,1,2026-10-02
-PropuestasDeReforma,por_autor_una_vez_por_cada_autor: Comunidad Autónoma de La Rioja - Parlamento,1,2026-10-02
-PropuestasDeReforma,por_autor_una_vez_por_cada_autor: Comunidad Autónoma de Castilla-La Mancha - Cortes,1,2026-10-02
-PropuestasDeReforma,procedentes_de_real_decreto_ley,0,2026-10-02
-ProposicionesDeLey,total,369,2026-10-02
-ProposicionesDeLey,por_resultado: En tramitación (sin resultado),220,2026-10-02
-ProposicionesDeLey,por_resultado: Inadmitido a trámite en términos absolutos,1,2026-10-02
-ProposicionesDeLey,por_resultado: Decaído,28,2026-10-02
-ProposicionesDeLey,por_resultado: Rechazado,56,2026-10-02
-ProposicionesDeLey,por_resultado: Retirado,50,2026-10-02
-ProposicionesDeLey,por_resultado: Aprobado con modificaciones,9,2026-10-02
-ProposicionesDeLey,por_resultado: Subsumido en otra iniciativa,3,2026-10-02
-ProposicionesDeLey,por_resultado: Aprobado sin modificaciones,2,2026-10-02
-ProposicionesDeLey,por_situacion_general: En el Pleno,102,2026-10-02
-ProposicionesDeLey,por_situacion_general: En comisión,95,2026-10-02
-ProposicionesDeLey,por_situacion_general: Cerrado,149,2026-10-02
-ProposicionesDeLey,por_situacion_general: En la Mesa,5,2026-10-02
-ProposicionesDeLey,por_situacion_general: En el Senado,4,2026-10-02
-ProposicionesDeLey,por_situacion_general: Pendiente de contestación del Gobierno,14,2026-10-02
-ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Grupo Parlamentario Vasco (EAJ-PNV),12,2026-10-02
-ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Grupo Parlamentario Plurinacional SUMAR,65,2026-10-02
-ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Grupo Parlamentario Republicano,14,2026-10-02
-ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Grupo Parlamentario VOX,48,2026-10-02
-ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Grupo Parlamentario Popular en el Congreso,63,2026-10-02
-ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Grupo Parlamentario Socialista,40,2026-10-02
-ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Grupo Parlamentario Junts per Catalunya,14,2026-10-02
-ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Grupo Parlamentario Mixto,61,2026-10-02
-ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Grupo Parlamentario Euskal Herria Bildu,4,2026-10-02
-ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Comisión de Derechos Sociales y Consumo,1,2026-10-02
-ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Diputados a título individual (varios grupos),3,2026-10-02
-ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Senado,46,2026-10-02
-ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Comunidad Autónoma de la Región de Murcia - Asamblea Regional,2,2026-10-02
-ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Comunidad Autónoma de Cataluña - Parlamento,5,2026-10-02
-ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Comunidad de Madrid - Asamblea,1,2026-10-02
-ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Comunidad Autónoma de Galicia - Parlamento,1,2026-10-02
-ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Comunidad Autónoma de Andalucía-Parlamento,2,2026-10-02
-ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Comunidad Autónoma de Cantabria - Parlamento,1,2026-10-02
-ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Comunidad Autónoma del Principado de Asturias-Junta General,1,2026-10-02
-ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Comunidad Autónoma de Extremadura - Asamblea,1,2026-10-02
-ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Comunidad Autónoma de las Illes Balears-Parlamento,2,2026-10-02
-ProposicionesDeLey,procedentes_de_real_decreto_ley,0,2026-10-02
+IniciativasLegislativasAprobadas,filas_total,156,2026-10-03
+IniciativasLegislativasAprobadas,normas_distintas_por_tipo: Leyes,20,2026-10-03
+IniciativasLegislativasAprobadas,normas_distintas_por_tipo: Reales decretos,58,2026-10-03
+IniciativasLegislativasAprobadas,normas_distintas_por_tipo: Leyes organicas,12,2026-10-03
+IniciativasLegislativasAprobadas,normas_distintas_por_subtipo_segun_titulo: Ley,20,2026-10-03
+IniciativasLegislativasAprobadas,normas_distintas_por_subtipo_segun_titulo: Real Decreto-ley,58,2026-10-03
+IniciativasLegislativasAprobadas,normas_distintas_por_subtipo_segun_titulo: Ley Orgánica,12,2026-10-03
+IniciativasLegislativasAprobadas,filas_por_tipo_y_clase: Leyes | norma,20,2026-10-03
+IniciativasLegislativasAprobadas,filas_por_tipo_y_clase: Leyes | correccion_de_errores,1,2026-10-03
+IniciativasLegislativasAprobadas,filas_por_tipo_y_clase: Reales decretos | norma,58,2026-10-03
+IniciativasLegislativasAprobadas,filas_por_tipo_y_clase: Reales decretos | resolucion_convalidacion,40,2026-10-03
+IniciativasLegislativasAprobadas,filas_por_tipo_y_clase: Reales decretos | resolucion_derogacion,10,2026-10-03
+IniciativasLegislativasAprobadas,filas_por_tipo_y_clase: Reales decretos | correccion_de_errores,13,2026-10-03
+IniciativasLegislativasAprobadas,filas_por_tipo_y_clase: Leyes organicas | norma,12,2026-10-03
+IniciativasLegislativasAprobadas,filas_por_tipo_y_clase: Leyes organicas | correccion_de_errores,2,2026-10-03
+ProyectosDeLey,total,115,2026-10-03
+ProyectosDeLey,por_resultado: Aprobado con modificaciones,17,2026-10-03
+ProyectosDeLey,por_resultado: En tramitación (sin resultado),90,2026-10-03
+ProyectosDeLey,por_resultado: Rechazado,2,2026-10-03
+ProyectosDeLey,por_resultado: Retirado,2,2026-10-03
+ProyectosDeLey,por_resultado: Aprobado sin modificaciones,4,2026-10-03
+ProyectosDeLey,por_situacion_general: Cerrado,26,2026-10-03
+ProyectosDeLey,por_situacion_general: En comisión,89,2026-10-03
+ProyectosDeLey,por_autor_una_vez_por_cada_autor: Gobierno,115,2026-10-03
+ProyectosDeLey,procedentes_de_real_decreto_ley,25,2026-10-03
+PropuestasDeReforma,total,2,2026-10-03
+PropuestasDeReforma,por_resultado: En tramitación (sin resultado),2,2026-10-03
+PropuestasDeReforma,por_situacion_general: En el Pleno,1,2026-10-03
+PropuestasDeReforma,por_situacion_general: En comisión,1,2026-10-03
+PropuestasDeReforma,por_autor_una_vez_por_cada_autor: Comunidad Autónoma de La Rioja - Parlamento,1,2026-10-03
+PropuestasDeReforma,por_autor_una_vez_por_cada_autor: Comunidad Autónoma de Castilla-La Mancha - Cortes,1,2026-10-03
+PropuestasDeReforma,procedentes_de_real_decreto_ley,0,2026-10-03
+ProposicionesDeLey,total,369,2026-10-03
+ProposicionesDeLey,por_resultado: En tramitación (sin resultado),220,2026-10-03
+ProposicionesDeLey,por_resultado: Inadmitido a trámite en términos absolutos,1,2026-10-03
+ProposicionesDeLey,por_resultado: Decaído,28,2026-10-03
+ProposicionesDeLey,por_resultado: Rechazado,56,2026-10-03
+ProposicionesDeLey,por_resultado: Retirado,50,2026-10-03
+ProposicionesDeLey,por_resultado: Aprobado con modificaciones,9,2026-10-03
+ProposicionesDeLey,por_resultado: Subsumido en otra iniciativa,3,2026-10-03
+ProposicionesDeLey,por_resultado: Aprobado sin modificaciones,2,2026-10-03
+ProposicionesDeLey,por_situacion_general: En el Pleno,104,2026-10-03
+ProposicionesDeLey,por_situacion_general: En comisión,95,2026-10-03
+ProposicionesDeLey,por_situacion_general: Cerrado,149,2026-10-03
+ProposicionesDeLey,por_situacion_general: En la Mesa,5,2026-10-03
+ProposicionesDeLey,por_situacion_general: En el Senado,4,2026-10-03
+ProposicionesDeLey,por_situacion_general: Pendiente de contestación del Gobierno,12,2026-10-03
+ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Grupo Parlamentario Vasco (EAJ-PNV),12,2026-10-03
+ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Grupo Parlamentario Plurinacional SUMAR,65,2026-10-03
+ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Grupo Parlamentario Republicano,14,2026-10-03
+ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Grupo Parlamentario VOX,48,2026-10-03
+ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Grupo Parlamentario Popular en el Congreso,63,2026-10-03
+ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Grupo Parlamentario Socialista,40,2026-10-03
+ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Grupo Parlamentario Junts per Catalunya,14,2026-10-03
+ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Grupo Parlamentario Mixto,61,2026-10-03
+ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Grupo Parlamentario Euskal Herria Bildu,4,2026-10-03
+ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Comisión de Derechos Sociales y Consumo,1,2026-10-03
+ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Diputados a título individual (varios grupos),3,2026-10-03
+ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Senado,46,2026-10-03
+ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Comunidad Autónoma de la Región de Murcia - Asamblea Regional,2,2026-10-03
+ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Comunidad Autónoma de Cataluña - Parlamento,5,2026-10-03
+ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Comunidad de Madrid - Asamblea,1,2026-10-03
+ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Comunidad Autónoma de Galicia - Parlamento,1,2026-10-03
+ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Comunidad Autónoma de Andalucía-Parlamento,2,2026-10-03
+ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Comunidad Autónoma de Cantabria - Parlamento,1,2026-10-03
+ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Comunidad Autónoma del Principado de Asturias-Junta General,1,2026-10-03
+ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Comunidad Autónoma de Extremadura - Asamblea,1,2026-10-03
+ProposicionesDeLey,por_autor_una_vez_por_cada_autor: Comunidad Autónoma de las Illes Balears-Parlamento,2,2026-10-03
+ProposicionesDeLey,procedentes_de_real_decreto_ley,0,2026-10-03
