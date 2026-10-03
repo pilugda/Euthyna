@@ -8,11 +8,20 @@ permissions:
 jobs:
   actualizar:
     runs-on: ubuntu-latest
+    timeout-minutes: 120
     steps:
       - uses: actions/checkout@v4
       - uses: actions/setup-python@v5
         with: { python-version: "3.12" }
       - run: python3 actualizar_iniciativas.py
+      - name: Actividad completa de la legislatura XV
+        run: python3 actualizar_actividad.py 15
+      - name: Guardar el original sin tocar (90 dias)
+        uses: actions/upload-artifact@v4
+        with:
+          name: originales-congreso
+          path: crudo/
+          if-no-files-found: ignore
       - name: Guardar cambios
         run: |
           git config user.name "euthyna-bot"
